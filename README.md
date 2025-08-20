@@ -2,7 +2,7 @@
 
 Bei größeren Passwort Datenbanken und mehreren Benutzern im Pleasant Passwort Server auf dem MSSQL Server ist gerade die Weboberfläche sehr träge.
 
-Leider wird auf der Plesant Seite selbst nur der Wechsel auf den MSSQL Server [erklärt](https://pleasantpasswords.com/info/pleasant-password-server/b-server-configuration/4-changing-databases-for-pleasant-password-server#4), jedoch nicht die für den MSSQL Server nötigen Schritte um die Performance zu erhöhen.
+Leider wird auf der Pleasant Seite selbst nur der Wechsel auf den MSSQL Server [erklärt](https://pleasantpasswords.com/info/pleasant-password-server/b-server-configuration/4-changing-databases-for-pleasant-password-server#4), jedoch nicht die für den MSSQL Server nötigen Schritte um die Performance zu erhöhen.
 
 Hier habe ich einige Punkte für die Performanceoptimierung zusammengetragen welche einen deutlichen Schub bringen und für verzögerungsfreies Navigieren duch die Kennwörter in der Weboberfläche sorgen.
 
